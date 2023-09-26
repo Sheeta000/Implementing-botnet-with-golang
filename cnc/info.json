@@ -1,0 +1,10 @@
+{
+  "ServerPort":           "12312",
+  "ServerAddr":           "10.10.162.1",
+  "TelnetAddr":           "127.0.0.1",
+  "TelnetPort":           "23",
+  "TelnetName":           "boxboz",
+  "TelnetPassWord":       "wowxc60",
+  "ClientVerify":         "EDGVTDYTHWOTCCVCXIFHOSUOTPKAFOMX",
+  "ServerVerifyCallBack": "XPTMTVKSPKZGOQODIOUJOXXACMOWLNTK"
+}
